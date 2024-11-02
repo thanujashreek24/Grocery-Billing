@@ -1,0 +1,1 @@
+The Billing System application built using Tkinter library . It enables users to input customer details, select items, calculate totals, and apply taxes for various product categories like medical supplies, groceries, and cold drinks. The
